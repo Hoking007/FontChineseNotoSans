@@ -1,0 +1,21 @@
+{
+    "author": "Hoking",
+    "content_scripts": [
+        {
+            "all_frames": true,
+            "css": [
+                "css/2NotoSans.css"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
+    ],
+    "description": "替换字体的中文部分为NotoSans",
+    "icons": {
+        "128": "128.png"
+    },
+    "manifest_version": 2,
+    "name": "替换字体的中文部分为NotoSans",
+    "version": "0.1.0.0"
+}
