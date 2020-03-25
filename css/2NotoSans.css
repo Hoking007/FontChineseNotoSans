@@ -245,3 +245,6 @@ TEXTAREA { font-family:monospace, Consolas, Microsoft Yahei; }
 PRE { font-family:monospace, Consolas, Microsoft Yahei; }
 
 
+body, input, .navigator-toolbox, .toolbarbutton-text, .sidebar-title
+{text-shadow: 0px 0px 1px #ACACAC;}
+
